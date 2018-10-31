@@ -12,4 +12,4 @@ name = input()
 
 reverse = name[::-1]
 
-print("Hello {},please to meet you! Did you know that. your name backwards is" .format (name),(reverse))
+print("Hello {},please to meet you! Did you know that. your name backwards is" .format ((name),(reverse))
